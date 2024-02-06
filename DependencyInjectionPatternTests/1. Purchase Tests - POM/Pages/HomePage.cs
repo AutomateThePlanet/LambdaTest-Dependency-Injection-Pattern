@@ -1,4 +1,4 @@
-﻿namespace DepedencyInjectionPattern.ThirdVersion;
+﻿namespace ChainOfResponsibility.SecondVersion;
 public class HomePage : WebPage
 {
     public HomePage(IWebDriver driver, WebDriverWait wait, Actions actions) 

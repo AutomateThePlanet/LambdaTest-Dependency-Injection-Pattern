@@ -1,6 +1,6 @@
-﻿using DepedencyInjectionPattern.Models;
+﻿using ChainOfResponsibility.Models;
 
-namespace DepedencyInjectionPattern.ThirdVersion;
+namespace ChainOfResponsibility.SecondVersion;
 public class CheckoutPage : WebPage
 {
     public CheckoutPage(IWebDriver driver, WebDriverWait wait, Actions actions) 

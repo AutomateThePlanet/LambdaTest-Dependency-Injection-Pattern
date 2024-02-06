@@ -1,8 +1,9 @@
-﻿namespace DepedencyInjectionPattern.FourthVersion;
+﻿namespace ChainOfResponsibility.ThirdVersion;
 
 public interface IDriver
 {
     public string Url { get; }
+    public string HtmlSource { get; }
     public void Start(Browser browser);
     public void Refresh();
     public void Quit();

@@ -1,5 +1,4 @@
-﻿using DepedencyInjectionPattern.FifthVersion;
-using DepedencyInjectionPattern.Models;
+﻿using ChainOfResponsibility.Models;
 
 namespace DepedencyInjectionPattern.FifthVersion;
 public interface IProductPage

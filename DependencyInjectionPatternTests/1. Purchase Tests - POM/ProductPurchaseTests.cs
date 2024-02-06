@@ -1,9 +1,9 @@
 ﻿using OpenQA.Selenium.Chrome;
 using WebDriverManager.DriverConfigs.Impl;
-using DepedencyInjectionPattern.Models;
-using DepedencyInjectionPattern.ThirdVersion;
+using ChainOfResponsibility.Models;
+using ChainOfResponsibility.ThirdVersion;
 
-namespace DepedencyInjectionPattern.ThirdVersion;
+namespace ChainOfResponsibility.SecondVersion;
 
 [TestFixture]
 public class ProductPurchaseTests

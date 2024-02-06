@@ -5,8 +5,8 @@
     <LangVersion>11.0</LangVersion>
     <IsPackable>false</IsPackable>
     <ImplicitUsings>disable</ImplicitUsings>
-    <AssemblyName>DepedencyInjectionPattern</AssemblyName>
-    <RootNamespace>DepedencyInjectionPattern</RootNamespace>
+    <AssemblyName>ChainOfResponsibility</AssemblyName>
+    <RootNamespace>ChainOfResponsibility</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

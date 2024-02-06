@@ -1,4 +1,4 @@
-﻿namespace DepedencyInjectionPattern.ThirdVersion;
+﻿namespace ChainOfResponsibility.SecondVersion;
 
 public class CartPage : WebPage
 {

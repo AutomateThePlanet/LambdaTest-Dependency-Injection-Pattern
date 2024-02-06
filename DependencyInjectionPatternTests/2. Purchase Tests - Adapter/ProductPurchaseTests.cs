@@ -1,7 +1,7 @@
-﻿using DepedencyInjectionPattern.FourthVersion;
-using DepedencyInjectionPattern.Models;
+﻿using ChainOfResponsibility.ThirdVersion;
+using ChainOfResponsibility.Models;
 
-namespace DepedencyInjectionPattern.FourthVersion;
+namespace ChainOfResponsibility.ThirdVersion;
 
 [TestFixture]
 public class ProductPurchaseTests

@@ -1,4 +1,4 @@
-﻿namespace DepedencyInjectionPattern.FourthVersion;
+﻿namespace ChainOfResponsibility.ThirdVersion;
 
 public interface IComponent 
 {

@@ -6,7 +6,7 @@ using OpenQA.Selenium.IE;
 using OpenQA.Selenium.Safari;
 using WebDriverManager.DriverConfigs.Impl;
 
-namespace DepedencyInjectionPattern.FourthVersion;
+namespace ChainOfResponsibility.ThirdVersion;
 
 public class DriverAdapter : IDriver
 {
@@ -14,6 +14,8 @@ public class DriverAdapter : IDriver
     private WebDriverWait _webDriverWait;
 
     public string Url => _webDriver.Url;
+
+    public string HtmlSource => _webDriver.PageSource;
 
     public void Start(Browser browser)
     {

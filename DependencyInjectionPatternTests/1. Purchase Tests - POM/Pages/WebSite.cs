@@ -1,4 +1,4 @@
-﻿namespace DepedencyInjectionPattern.ThirdVersion;
+﻿namespace ChainOfResponsibility.SecondVersion;
 public class WebSite
 {
     private readonly IWebDriver _driver;

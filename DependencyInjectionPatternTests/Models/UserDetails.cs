@@ -1,4 +1,4 @@
-﻿namespace DepedencyInjectionPattern.Models;
+﻿namespace ChainOfResponsibility.Models;
 public class UserDetails
 {
     public string FirstName { get; set; }

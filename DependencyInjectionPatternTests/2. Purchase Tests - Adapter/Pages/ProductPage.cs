@@ -1,6 +1,6 @@
-﻿using DepedencyInjectionPattern.Models;
+﻿using ChainOfResponsibility.Models;
 
-namespace DepedencyInjectionPattern.FourthVersion;
+namespace ChainOfResponsibility.ThirdVersion;
 
 public class ProductPage : WebPage
 {

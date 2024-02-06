@@ -1,4 +1,4 @@
-﻿using DepedencyInjectionPattern.Models;
+﻿using ChainOfResponsibility.Models;
 
 namespace DepedencyInjectionPattern.FifthVersion;
 public interface ICheckoutPage

@@ -1,4 +1,4 @@
-﻿namespace DepedencyInjectionPattern.ThirdVersion;
+﻿namespace ChainOfResponsibility.SecondVersion;
 public abstract class WebPage
 {
     protected readonly IWebDriver _driver;

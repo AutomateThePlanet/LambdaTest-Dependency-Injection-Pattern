@@ -1,4 +1,4 @@
-﻿namespace DepedencyInjectionPattern.FourthVersion;
+﻿namespace ChainOfResponsibility.ThirdVersion;
 public class HomePage : WebPage
 {
     public HomePage(IDriver driver) 
