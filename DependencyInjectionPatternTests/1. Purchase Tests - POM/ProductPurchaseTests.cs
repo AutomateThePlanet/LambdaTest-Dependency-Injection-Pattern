@@ -1,7 +1,6 @@
 ﻿using OpenQA.Selenium.Chrome;
 using WebDriverManager.DriverConfigs.Impl;
 using ChainOfResponsibility.Models;
-using ChainOfResponsibility.ThirdVersion;
 
 namespace ChainOfResponsibility.SecondVersion;
 

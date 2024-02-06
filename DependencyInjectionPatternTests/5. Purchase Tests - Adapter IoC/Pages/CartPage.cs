@@ -1,6 +1,4 @@
-﻿using DepedencyInjectionPattern.FifthVersion;
-
-namespace DepedencyInjectionPattern.FifthVersion;
+﻿namespace DepedencyInjectionPattern.FifthVersion;
 public class CartPage : WebPage, ICartPage
 {
     public CartPage(IDriver driver) 

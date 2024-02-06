@@ -1,6 +1,4 @@
-﻿using DepedencyInjectionPattern.FifthVersion;
-
-namespace DepedencyInjectionPattern.FifthVersion;
+﻿namespace DepedencyInjectionPattern.FifthVersion;
 public interface IHomePage
 {
     IComponent SearchInput { get; }

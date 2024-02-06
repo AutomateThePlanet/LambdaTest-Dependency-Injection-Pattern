@@ -1,5 +1,4 @@
 ﻿using Unity;
-using System;
 
 namespace DepedencyInjectionPattern.SixthVersion;
 

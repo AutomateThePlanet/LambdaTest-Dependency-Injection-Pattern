@@ -1,5 +1,5 @@
-﻿using DepedencyInjectionPattern.FifthVersion;
-using DepedencyInjectionPattern.Models;
+﻿using ChainOfResponsibility.Models;
+using DepedencyInjectionPattern.FifthVersion;
 
 namespace DepedencyInjectionPattern;
 

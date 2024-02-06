@@ -1,5 +1,4 @@
-﻿using ChainOfResponsibility.ThirdVersion;
-using ChainOfResponsibility.Models;
+﻿using ChainOfResponsibility.Models;
 
 namespace ChainOfResponsibility.ThirdVersion;
 

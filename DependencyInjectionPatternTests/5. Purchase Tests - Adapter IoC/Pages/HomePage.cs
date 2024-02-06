@@ -1,6 +1,4 @@
-﻿using DepedencyInjectionPattern.FifthVersion;
-
-namespace DepedencyInjectionPattern.FifthVersion;
+﻿namespace DepedencyInjectionPattern.FifthVersion;
 public class HomePage : WebPage, IHomePage
 {
     public HomePage(IDriver driver)
